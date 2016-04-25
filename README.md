@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8"/>
     <title>画像添付</title>
   </head>
   <body>
