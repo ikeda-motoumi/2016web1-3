@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>画像添付</title>
+    <title>画像ページ</title>
   </head>
   <body>
     
