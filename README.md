@@ -6,7 +6,7 @@
   </head>
   <body>
     
-    <img src="Z:\Desktop\photoshop" alt="スマホで撮影"/>
+    <img src="Z:\Desktop\photoshop\GATE of FORBIDDEN II_05.jpg" alt="スマホで撮影"/>
     
   </body>
 </html>
